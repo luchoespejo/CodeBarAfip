@@ -1,0 +1,15 @@
+d:\users\lucho\documents\visual studio 2013\Projects\LibreryBar\LibreryBar\bin\Debug\LibreryBar.dll
+d:\users\lucho\documents\visual studio 2013\Projects\LibreryBar\LibreryBar\bin\Debug\LibreryBar.pdb
+d:\users\lucho\documents\visual studio 2013\Projects\LibreryBar\LibreryBar\bin\Debug\LibreryBar.tlb
+d:\users\lucho\documents\visual studio 2013\Projects\LibreryBar\LibreryBar\bin\Debug\BarcodeLib.dll
+d:\users\lucho\documents\visual studio 2013\Projects\LibreryBar\LibreryBar\obj\Debug\LibreryBar.dll
+d:\users\lucho\documents\visual studio 2013\Projects\LibreryBar\LibreryBar\obj\Debug\LibreryBar.pdb
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\bin\Debug\LibreryBar.dll
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\bin\Debug\LibreryBar.pdb
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\bin\Debug\LibreryBar.tlb
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\bin\Debug\BarcodeLib.dll
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\obj\Debug\LibreryBar.csprojAssemblyReference.cache
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\obj\Debug\LibreryBar.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\obj\Debug\LibreryBar.csproj.CopyComplete
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\obj\Debug\LibreryBar.dll
+D:\PROYECTOS\NET\2018\LibreryBar\LibreryBar\obj\Debug\LibreryBar.pdb

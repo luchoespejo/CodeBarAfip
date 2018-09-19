@@ -1,0 +1,11 @@
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\bin\Debug\LibreryBar.dll
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\bin\Debug\BarcodeLib.dll
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\bin\Debug\LibreryBar.pdb
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\PROYECTOS\NET\2018\LibreryBar\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
